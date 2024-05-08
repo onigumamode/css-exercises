@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color: #ff66cc;
     font-family: Verdana, 'DejaVu sans', sans-serif;
 }
@@ -6,7 +6,7 @@ p {
     color:#0000ff;
     font-size:36px;
 }
-#vulpix {
+.adjustfont {
     font-size:24px;
 }
 #charmander {
